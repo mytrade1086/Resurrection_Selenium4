@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23876" started-at="2021-12-05T14:50:18 IST" finished-at="2021-12-05T14:50:42 IST">
+    <groups>
+    </groups>
+    <test name="TestChrome" duration-ms="23817" started-at="2021-12-05T14:50:18 IST" finished-at="2021-12-05T14:50:42 IST">
+      <class name="Resurrection_Selenium4.Resurrection_Selenium4.Grid4">
+        <test-method status="PASS" signature="StandAloneChrome(java.lang.String)[pri:0, instance:Resurrection_Selenium4.Resurrection_Selenium4.Grid4@9a7504c]" name="StandAloneChrome" duration-ms="23738" started-at="2021-12-05T14:50:18 IST" finished-at="2021-12-05T14:50:42 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StandAloneChrome -->
+      </class> <!-- Resurrection_Selenium4.Resurrection_Selenium4.Grid4 -->
+    </test> <!-- TestChrome -->
+    <test name="TestFireFox" duration-ms="23876" started-at="2021-12-05T14:50:18 IST" finished-at="2021-12-05T14:50:42 IST">
+      <class name="Resurrection_Selenium4.Resurrection_Selenium4.Grid4">
+        <test-method status="PASS" signature="StandAloneChrome(java.lang.String)[pri:0, instance:Resurrection_Selenium4.Resurrection_Selenium4.Grid4@77f99a05]" name="StandAloneChrome" duration-ms="23802" started-at="2021-12-05T14:50:18 IST" finished-at="2021-12-05T14:50:42 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StandAloneChrome -->
+      </class> <!-- Resurrection_Selenium4.Resurrection_Selenium4.Grid4 -->
+    </test> <!-- TestFireFox -->
+  </suite> <!-- Suite -->
+</testng-results>
